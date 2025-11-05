@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+openai
+PyPDF2
+pillow
+pandas
+fpdf
+python-dateutil
+requests
